@@ -1,0 +1,12 @@
+[
+    {
+        "descripcion": "Jamon y Queso",
+        "monto": 22.95,
+        "categoria": "comida"
+    },
+    {
+        "descripcion": "Cambio de cuenta a NA",
+        "monto": 75.0,
+        "categoria": "ocio"
+    }
+]
